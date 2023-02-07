@@ -14,7 +14,6 @@
       "price": 599,
       "img": "https://images-na.ssl-images-amazon.com/images/I/51-gJbWc3qL._SX338_BO1,204,203,200_.jpg"
     },
-
     {
       "title": "The Alchemist",
       "author": "Paulo Coelho",
@@ -42,6 +41,18 @@
       "year": "1887",
       "price": 629,
       "img": "https://m.media-amazon.com/images/I/41jNoiUgf3L.jpg"
+    }
+  ],
+  "SignUp": [
+    {
+      "email": "md@gmail.com",
+      "password": "12345",
+      "id": 4
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 5
     }
   ]
 }
